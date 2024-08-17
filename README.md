@@ -17,7 +17,7 @@ Live demo coming soon. However, you can view it locally using the installation i
 
 ## Installation
 
-To run this project locally, ensure Node.js is installed then follow these steps:
+To run this project locally, ensure [Node.js](https://nodejs.org/) is installed then follow these steps:
 
 1. **Clone the repository:**
 
