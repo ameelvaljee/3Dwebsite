@@ -13,7 +13,7 @@ A 3D interactive website built using [Three.js](https://threejs.org/) and [Vite]
 
 ## Demo
 
-Live demo coming soon. However, you can view it locally using the installation instructions below.
+Live demo coming soon. However, you can view it locally using the instructions below.
 
 ## Installation
 
@@ -30,7 +30,7 @@ To run this project locally, ensure [Node.js](https://nodejs.org/) is installed,
    npm install
    npm install three@0.132.0
 
-3. **Run Code:**
+3. **Run Website:**
    ```bash
    npm run dev
    
