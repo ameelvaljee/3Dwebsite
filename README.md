@@ -31,6 +31,6 @@ To run this project locally, ensure Node.js is installed then follow these steps
    npm install three@0.132.0
 
 3. **Run Code:**
- ```bash
+   ```bash
    npm run dev
    
