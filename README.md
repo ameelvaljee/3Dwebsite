@@ -13,7 +13,7 @@ A 3D interactive website built using [Three.js](https://threejs.org/) and [Vite]
 
 ## Demo
 
-You can view the live demo [here](https://ameelvaljee.github.io/3Dwebsite).
+Live demo coming soon. However, you can view it locally using the installation instructions below.
 
 ## Installation
 
